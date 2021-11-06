@@ -1,0 +1,97 @@
+body{
+     background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/61590b37136421.5735ae02e1740.gif");
+     background-attachment: fixed;
+    }
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+h1{
+   font-family: 'Raleway';
+   color: #fff;
+   font-size: 100px;
+   position: absolute;
+   margin-top: 290px;
+   margin-left: 100px;
+  }
+
+h1:hover{
+           color: #5a8dcf;
+          }
+
+h1:hover{
+         transform: scale(1.1);
+
+}
+nav{
+    text-align: center;
+    
+
+   }
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;400&display=swap');
+
+p.p1{
+     font-family: 'Raleway';
+     color: whitesmoke;
+     margin-left: 1100px;
+     margin-top: 30px;
+     font-size: 20px;
+     position: absolute;
+    }
+
+p.p1:hover{
+           color: lightblue;
+           
+          }
+
+p.p2{
+     font-family: 'Raleway';
+     color: whitesmoke;
+     margin-left: 1280px;
+     margin-top: 30px;
+     font-size: 20px;
+     position: absolute;
+    }
+
+p.p2:hover{
+           color: lightblue;
+          }
+
+
+
+img.fb{
+       width: 30px;
+       height: 30px;
+       position: fixed;
+       margin-top: 510px;
+       margin-left: 1437px;
+       position: fixed;
+      }
+
+p.fb{
+     color: whitesmoke;
+     font-size: 20px;
+     font-family: bebas neue light;
+     margin-top: 560px;
+     margin-left: 1418px;
+     position: fixed;
+
+    }
+
+img.ig{
+       width: 30px;
+       height: 30px;
+       position: fixed;
+       margin-top: 600px;
+       margin-left: 1435px;
+
+      }
+
+p.ig{
+     color: whitesmoke;
+     font-size: 20px;
+     font-family: bebas neue light;
+     margin-top: 636px;
+     margin-left: 1415px;
+     position: fixed;
+    }
